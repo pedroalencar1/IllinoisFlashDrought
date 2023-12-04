@@ -6,6 +6,8 @@ You may have heard the term “flash drought” recently. A flash drought is a t
 
 Flash drought is thought to cause worse impacts to agriculture because of its rapid development and relatively little time for preparation. However, flash droughts are challenging to identify, predict, and study. Therefore, the impacts specific to flash drought are not well understood and may be misrepresented in research. 
 
+![](https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/fig1.png)
+
 <p align="center">
   <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/fig1.png" width="450">
   
