@@ -7,7 +7,7 @@ You may have heard the term “flash drought” recently. A flash drought is a t
 Flash drought is thought to cause worse impacts to agriculture because of its rapid development and relatively little time for preparation. However, flash droughts are challenging to identify, predict, and study. Therefore, the impacts specific to flash drought are not well understood and may be misrepresented in research. 
 
 <p align="center">
-  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/fig1.png" width="450" title="The US Drought Monitor showing drought intensification between May and June in Illinois.">
+  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/fig1.png" width="450">
   
   <em align="center"> The US Drought Monitor showing drought intensification between May and June in Illinois.</em>
 </p>
@@ -15,7 +15,7 @@ Flash drought is thought to cause worse impacts to agriculture because of its ra
 We are working to better consider farmer and producer perception of drought, flash drought, and its impacts to improve drought monitoring and prediction. To help us develop this framework, we need to better understand what farmers consider to be an impact from drought, when those impacts occur, and how they affect farmer decision-making on season-to-season and longer timescales.
 
 <p align="center">
-  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/fig2.png" width="650" title="The US Drought Monitor showing drought intensification between May and June in Illinois.">
+  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/fig2.png" width="650">
     
   <em align="center"> Improving drought communication requires condition and impact information flow from farmers and producers to scientists.</em>
 </p>
@@ -29,5 +29,5 @@ We are working to better consider farmer and producer perception of drought, fla
 -	twford@illinois.edu
 
 <p align="center">
-  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/fig3.png" width="450" title="The US Drought Monitor showing drought intensification between May and June in Illinois.">
+  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/fig3.png" width="450">
 </p>
