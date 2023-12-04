@@ -8,7 +8,7 @@ Flash drought is thought to cause worse impacts to agriculture because of its ra
 
 
 <p align="center">
-  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/assets/fig1.png" width="450">
+  <img src="assets/fig1.png" width="450">
   
   <em align="center"> The US Drought Monitor showing drought intensification between May and June in Illinois.</em>
 </p>
