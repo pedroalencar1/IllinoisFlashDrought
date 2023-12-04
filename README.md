@@ -8,17 +8,15 @@ Flash drought is thought to cause worse impacts to agriculture because of its ra
 
 
 <p align="center">
-  <img src="assets/fig1.png" width="450">
+  <img src="assets/fig1.png" width="450" title = "The US Drought Monitor showing drought intensification between May and June in Illinois">
   
-  <em align="center"> The US Drought Monitor showing drought intensification between May and June in Illinois.</em>
 </p>
 
 We are working to better consider farmer and producer perception of drought, flash drought, and its impacts to improve drought monitoring and prediction. To help us develop this framework, we need to better understand what farmers consider to be an impact from drought, when those impacts occur, and how they affect farmer decision-making on season-to-season and longer timescales.
 
 <p align="center">
-  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/assets/fig2.png" width="650">
+  <img src="assets/fig2.png" width="650" title = "Improving drought communication requires condition and impact information flow from farmers and producers to scientists">
     
-  <em align="center"> Improving drought communication requires condition and impact information flow from farmers and producers to scientists.</em>
 </p>
 
 ### To participate, answer a brief [questionnaire](https://forms.gle/MkzPchEotALNsNLQ6).
@@ -30,5 +28,5 @@ We are working to better consider farmer and producer perception of drought, fla
 -	twford@illinois.edu
 
 <p align="center">
-  <img src="https://github.com/pedroalencar1/IllinoisFlashDrought/blob/main/assets/fig3.png" width="450">
+  <img src="assets/fig3.png" width="450">
 </p>
