@@ -9,7 +9,7 @@ Flash drought is thought to cause worse impacts to agriculture because of its ra
 
 <p align="center">
   <img src="assets/fig1.png" width="450" title = "The US Drought Monitor showing drought intensification between May and June in Illinois">
-
+<br>
   <em> The US Drought Monitor showing drought intensification between May and June in Illinois </em>
 </p>
 
@@ -17,7 +17,7 @@ We are working to better consider farmer and producer perception of drought, fla
 
 <p align="center">
   <img src="assets/fig2.png" width="650" title = "Improving drought communication requires condition and impact information flow from farmers and producers to scientists">
-
+<br>
   <em> Improving drought communication requires condition and impact information flow from farmers and producers to scientists </em>
 </p>
 
